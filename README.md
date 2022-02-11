@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kwon-seokjun</h1>
-<h3 align="center">A passionate frontend developer from korea</h3>
+<h1>Hi 👋, I'm Kwon-seokjun</h1>
+<h3>A passionate frontend developer from korea</h3>

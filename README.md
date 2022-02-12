@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm Kwon-seokjun</h1>
-<h3>I am a new developer studying frontend and backend for junior developers.</h3>
+<h3>I am a new developer studying frontend and backend</h3>

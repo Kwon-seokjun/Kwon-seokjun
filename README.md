@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <h1>Hi 👋, I'm Kwon-seokjun</h1>
 <h3>I am a new developer studying frontend and backend</h3>
+
+https://github.com/gjbae1212/hit-counter

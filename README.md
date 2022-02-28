@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  * {
-  background-color: skyblue;
-  }
-</style>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=42&desc=Seok%20Jun's%20GitHub&descAlignY=32&descAlign=60)
 

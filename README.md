@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 <br>
 
 [![Kwon-seokjun GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwon-seokjun&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={9eodhkd0})](https://solved.ac/{9eodhkd0})
